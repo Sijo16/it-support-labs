@@ -26,7 +26,7 @@ My learning focuses on structured troubleshooting, documenting evidence, identif
 - [Day 3 — Slow Laptop Troubleshooting](labs/day-03-slow-laptop.md)
 - [Day 4 — Application Not Opening](labs/day-04-application-not-opening.md)
 - [Day 5 — Helpdesk Ticket](labs/day-05-helpdesk-ticket.md)
-- [Day 6 - Networking Troubleshooting].(labs/day-06-network-troubleshooting.md)
+- [Day 6 - Networking Troubleshooting](labs/day-06-network-troubleshooting.md)
 
 ## Skills in Progress
 
