@@ -8,6 +8,7 @@ Hands-on IT Support labs covering Windows troubleshooting, networking, Microsoft
 | 1 | IT Support Fundamentals | Structured troubleshooting and incident documentation | Learning notes documented |
 | 2 | Network and Windows Checks | Wi-Fi, Device Manager, Windows Update | Initial checks documented |
 | 3 |Slow Laptop Investigation | Task Manager and performance analysis | Initial investigation documented
+| 4 | Application Not Opening | Process inspection and application troubleshooting | Investigation plan documented
 
 ## German IT Support Communication
 
