@@ -17,7 +17,7 @@ My learning focuses on structured troubleshooting, documenting evidence, identif
 | Day 3 | Slow Laptop Troubleshooting | Task Manager observations, performance investigation | Completed |
 | Day 4 | Application Not Opening | Application troubleshooting, evidence collection | Completed |
 | Day 5 | Helpdesk Ticket Documentation | Incident notes, investigation status, escalation, root-cause reporting | Completed |
-| Day 6 | Networking Troubleshooting | IP configuration, gateway connectivity, ping and DNS checks | Planned |
+| Day 6 | Networking Troubleshooting | IP configuration, gateway connectivity, ping and DNS checks | Completed |
 
 ## Projects and Lab Documentation
 
