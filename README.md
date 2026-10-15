@@ -1,57 +1,78 @@
 # IT Support Labs
 
-A practical learning portfolio documenting my progress in IT Support, Windows troubleshooting, networking, and Microsoft Azure.
+A practical learning portfolio documenting my progress in IT Support, Windows troubleshooting, networking, and Microsoft Azure fundamentals.
 
 ## About This Repository
 
-I am developing hands-on IT Support skills to prepare for entry-level roles such as IT Support Technician, Helpdesk Support, and Service Desk Analyst.
+I am developing practical skills for entry-level IT roles such as:
 
-My learning focuses on structured troubleshooting, documenting evidence, identifying possible causes, and escalating issues when administrator permissions are required.
+- IT Support Technician
+- Helpdesk Support
+- Service Desk Analyst
+- Junior IT Support Specialist
+
+My learning focuses on systematic troubleshooting, evidence collection, incident documentation, user support, and appropriate escalation.
 
 ## Learning Labs
 
-| Day | Topic | Skills Practised | Status |
+| Day | Topic | Key Skills | Status |
 |---|---|---|---|
-| Day 1 | IT Support Fundamentals | Troubleshooting workflow, symptom vs. cause, IT terminology | Completed |
-| Day 2 | Basic Windows and Network Checks | Device Manager, adapter checks, Windows Update awareness | Completed |
+| Day 1 | IT Support Fundamentals | Troubleshooting workflow, symptoms vs. causes, IT terminology | Completed |
+| Day 2 | Basic Windows and Network Checks | Device Manager, network adapters, Windows Update awareness | Completed |
 | Day 3 | Slow Laptop Troubleshooting | Task Manager observations, performance investigation | Completed |
 | Day 4 | Application Not Opening | Application troubleshooting, evidence collection | Completed |
-| Day 5 | Helpdesk Ticket Documentation | Incident notes, investigation status, escalation, root-cause reporting | Completed |
-| Day 6 | Networking Troubleshooting | IP configuration, gateway connectivity, ping and DNS checks | Completed |
+| Day 5 | Helpdesk Ticket Documentation | Incident notes, investigation status, escalation | Completed |
+| Day 6 | Network Troubleshooting | IPv4 configuration, gateway connectivity, ping, DNS resolution | Completed |
+| Day 7 | Networking Assessment and Escalation | Evidence-based diagnosis, proxy awareness, incident escalation | Completed |
+| Day 8 | Microsoft 365 Fundamentals | User accounts, licences, Outlook troubleshooting | Planned |
 
-## Projects and Lab Documentation
+## Lab Documentation
+
+### Windows and IT Support
 
 - [Day 1 — IT Support Basics](labs/day-01-it-support-basics.md)
 - [Day 2 — Network Basics](labs/day-02-network-basics.md)
 - [Day 3 — Slow Laptop Troubleshooting](labs/day-03-slow-laptop.md)
 - [Day 4 — Application Not Opening](labs/day-04-application-not-opening.md)
 - [Day 5 — Helpdesk Ticket](labs/day-05-helpdesk-ticket.md)
-- [Day 6 - Networking Troubleshooting](labs/day-06-network-troubleshooting.md)
+
+### Networking
+
+- [Day 6 — Network Troubleshooting](labs/day-06-network-troubleshooting.md)
+- [Day 7 — Network Escalation](labs/day-07-network-escalation.md)
 
 ## Skills in Progress
 
 - Windows troubleshooting
-- Basic networking and DNS
-- Task Manager and Device Manager
+- Basic networking and IPv4
+- Gateway connectivity and ICMP testing
+- DNS name resolution
+- Browser and proxy troubleshooting
 - Helpdesk ticket documentation
-- Incident investigation and escalation
-- Microsoft 365 and Microsoft Entra ID
+- Incident escalation
+- Microsoft 365 fundamentals
+- Microsoft Entra ID and user account management
 - Microsoft Azure fundamentals
 - Basic PowerShell
 - German IT support vocabulary
 
-## Troubleshooting Approach
+## Troubleshooting Methodology
 
-1. Identify the reported problem.
-2. Collect relevant information and evidence.
-3. Check possible causes systematically.
-4. Apply only authorised troubleshooting steps.
-5. Verify whether the issue is resolved.
-6. Document the outcome and escalate when necessary.
+1. Identify the reported issue.
+2. Gather relevant information and evidence.
+3. Perform appropriate checks in a logical order.
+4. Distinguish confirmed findings from possible causes.
+5. Apply only authorised troubleshooting steps.
+6. Verify whether the issue is resolved.
+7. Document the outcome and escalate when necessary.
 
-## Important Note
+## Learning Approach
 
-This repository documents my learning and practice. Planned checks are not presented as completed tests, and unconfirmed causes are clearly identified as unconfirmed.
+This portfolio includes practical exercises, simulated workplace scenarios, troubleshooting notes, and incident documentation.
 
-Some scenarios may be simulated for learning purposes. I will distinguish simulated exercises from checks performed on an actual device.
+Planned checks are not presented as completed tests. Unconfirmed root causes are clearly identified, and simulated exercises are distinguished from tests performed on an actual device.
+
+## Career Goal
+
+To build a strong foundation in IT Support and Helpdesk operations, gain practical experience, and progress towards Microsoft Azure and Cloud Support roles.
 
