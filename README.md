@@ -24,7 +24,7 @@ My learning focuses on systematic troubleshooting, evidence collection, incident
 | Day 5 | Helpdesk Ticket Documentation | Incident notes, investigation status, escalation | Completed |
 | Day 6 | Network Troubleshooting | IPv4 configuration, gateway connectivity, ping, DNS resolution | Completed |
 | Day 7 | Networking Assessment and Escalation | Evidence-based diagnosis, proxy awareness, incident escalation | Completed |
-| Day 8 | Microsoft 365 Fundamentals | User accounts, licences, Outlook troubleshooting | Planned |
+| Day 8 | Microsoft 365 Fundamentals | User accounts, licences, Outlook troubleshooting | Completed |
 
 ## Lab Documentation
 
