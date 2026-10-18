@@ -137,8 +137,8 @@ The next stages of my learning plan will focus on:
 
 **Completed through Day 8:** Windows troubleshooting, basic networking, incident documentation, escalation, and Microsoft 365 / Outlook troubleshooting.
 
-**Next milestone:** Continue practical IT Support training and progressively build the technical skills required for entry-level IT Support roles in Germany.
+**Next milestone:** Continue practical IT Support training and progressively build the technical skills required for entry-level IT Support roles.
 
 ---
 
-*Learning consistently. Troubleshooting systematically. Building toward an IT Support career in Germany.*
+*Learning consistently. Troubleshooting systematically. Building toward an IT Support career *
