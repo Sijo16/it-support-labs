@@ -1,144 +1,109 @@
-# IT Support Labs | IT-Support-Lernportfolio
+# IT Support Labs
 
-A hands-on learning portfolio documenting my progress toward an **IT Support / Helpdesk role**, with a longer-term goal of progressing into **Azure Cloud Support**.
+A hands-on learning portfolio documenting my progress toward an entry-level IT Support / Helpdesk role, with a long-term goal of moving into Cloud Support.
 
-This repository contains troubleshooting exercises, simulated helpdesk incidents, technical notes, ticket documentation, and German IT terminology.
+This repository contains troubleshooting exercises, simulated helpdesk tickets, networking fundamentals, Microsoft 365 support scenarios, and technical documentation.
 
-> **Learning approach:** Understand the problem → Gather evidence → Troubleshoot safely → Document findings → Resolve or escalate.
+## Career Objective
 
-## 🎯 Career Goal
+To build practical IT Support skills in:
 
-- Target roles: IT Support, IT Helpdesk, Service Desk, 1st Level Support, and Junior IT Support.
-- Target location: Germany, particularly Mecklenburg-Vorpommern.
-- Long-term direction: Microsoft Azure and Cloud Support.
-- Current focus: Windows troubleshooting, networking, Microsoft 365, structured incident handling, and German IT vocabulary.
+- Windows troubleshooting
+- Networking fundamentals
+- Microsoft 365 support
+- User access and permissions
+- IT Service Management (ITSM)
+- Incident documentation and escalation
+- Microsoft Azure and cloud support fundamentals
 
-## 📚 Learning Progress
+## Learning Roadmap
 
-| Day | Topic | Status |
-|---|---|---|
-| Day 1 | IT Support Fundamentals | Completed |
-| Day 2 | Windows and Network Basics | Completed |
-| Day 3 | Slow Laptop Troubleshooting | Completed |
-| Day 4 | Application Not Opening | Completed |
-| Day 5 | Helpdesk Ticket Documentation | Completed |
-| Day 6 | Network Troubleshooting | Completed |
-| Day 7 | Network Escalation and Incident Assessment | Completed |
-| Day 8 | Microsoft 365 Fundamentals and Outlook Troubleshooting | Completed |
-| Day 9 | Next Practical IT Support Lab | Planned |
+| Day | Topic | Skills Practised | Lab |
+|---|---|---|---|
+| 01 | IT Support Basics | IT Support responsibilities, troubleshooting approach | [View Lab](labs/day-01-it-support-basics.md) |
+| 02 | Network Basics | IP addresses, gateway, DNS and connectivity fundamentals | [View Lab](labs/day-02-network-basics.md) |
+| 03 | Slow Laptop Troubleshooting | Identifying performance issues and gathering evidence | [View Lab](labs/day-03-slow-laptop.md) |
+| 04 | Application Not Opening | Application troubleshooting and initial diagnostics | [View Lab](labs/day-04-application-not-opening.md) |
+| 05 | Helpdesk Ticket Documentation | Incident recording, troubleshooting notes and escalation | [View Lab](labs/day-05-helpdesk-ticket.md) |
+| 06 | Network Troubleshooting | `ipconfig`, `ping`, `nslookup` and connectivity checks | [View Lab](labs/day-06-network-troubleshooting.md) |
+| 07 | Network Troubleshooting and Escalation | Proxy checks, evidence collection and escalation decisions | [View Lab](labs/day-07-network-escalation.md) |
+| 08 | Microsoft 365 and Outlook Troubleshooting | Account checks, Outlook web vs. desktop, safe diagnostics | [View Lab](labs/day-08-microsoft-365-outlook.md) |
+| 09 | Microsoft 365 User Access Troubleshooting | Authentication, authorization, folder permissions and escalation | [View Lab](labs/day-09-user-access-troubleshooting.md) |
+| 10 | Active Directory and Microsoft Entra ID | Planned: identity, users, groups and account fundamentals | next lesson |
 
-## 🧪 Lab Index
+## Technical Skills Practised
 
-### Windows Troubleshooting
-
-- [Day 1 — IT Support Basics](labs/day-01-it-support-basics.md)
-- [Day 2 — Network Basics](labs/day-02-network-basics.md)
-- [Day 3 — Slow Laptop Troubleshooting](labs/day-03-slow-laptop.md)
-- [Day 4 — Application Not Opening](labs/day-04-application-not-opening.md)
-- [Day 5 — Helpdesk Ticket Documentation](labs/day-05-helpdesk-ticket.md)
-
-### Networking and Incident Management
-
-- [Day 6 — Network Troubleshooting](labs/day-06-network-troubleshooting.md)
-- [Day 7 — Network Escalation](labs/day-07-network-escalation.md)
-
-### Microsoft 365
-
-- [Day 8 — Microsoft 365 Fundamentals and Outlook Troubleshooting](labs/day-08-microsoft-365-outlook.md)
-
-## 🛠️ Skills Practised
-
-### Windows and Desktop Support
-- Structured troubleshooting and symptom identification.
-- Task Manager and performance investigation.
-- Application troubleshooting.
-- Safe first-line diagnostic practices.
+### Windows and Troubleshooting
+- Structured troubleshooting
+- Gathering symptoms and evidence
+- Identifying possible causes
+- Knowing when to escalate
+- Documenting incident outcomes
 
 ### Networking
-- IPv4 addressing and default gateways.
-- Connectivity testing using `ping`.
-- DNS resolution using `nslookup`.
-- Interpreting basic network test results.
-- Recognizing when further investigation is needed.
+- IPv4 and private IP addresses
+- Default gateway
+- DNS fundamentals
+- Connectivity testing with `ping`
+- DNS testing with `nslookup`
+- Basic network troubleshooting
 
-### Microsoft 365
-- User accounts, licences, and permissions.
-- Outlook desktop versus Outlook on the web.
-- Basic Office account and activation checks.
-- Investigating repeated sign-in prompts.
-- Understanding application-specific authentication issues.
+### Microsoft 365 and User Access
+- Outlook desktop vs. Outlook on the web
+- Company account checks
+- Authentication vs. authorization
+- Shared-folder access troubleshooting
+- Permission-review escalation
 
-### Service Desk and ITSM
-- Incident documentation.
-- Recording symptoms, checks, findings, and next actions.
-- Distinguishing confirmed facts from hypotheses.
-- Escalating incidents with relevant evidence.
-- Respecting access controls and administrator boundaries.
+### IT Support and Documentation
+- Simulated incident tickets
+- Incident descriptions and troubleshooting records
+- Escalation notes
+- Root-cause tracking
+- Security-aware troubleshooting
 
-### Professional Communication
-- Writing structured helpdesk ticket notes.
-- Explaining technical findings clearly.
-- Learning German IT support vocabulary and workplace phrases.
+## Tools and Commands
 
-## 🔎 Troubleshooting Methodology
-
-My standard troubleshooting workflow is:
-
-1. **Identify:** Clarify the user's symptoms and business impact.
-2. **Gather:** Collect relevant details, error messages, and available evidence.
-3. **Check:** Perform appropriate, authorized basic diagnostic checks.
-4. **Analyse:** Compare the findings and narrow down possible causes.
-5. **Act:** Apply an approved fix within my access level.
-6. **Verify:** Confirm whether the issue is resolved.
-7. **Document:** Record the actions taken and the results.
-8. **Escalate:** Hand over unresolved or higher-level issues with clear evidence.
-
-**Core principle:** A suspected cause is not a confirmed root cause. Troubleshooting decisions should be based on evidence.
-
-## ☁️ Future Learning Roadmap
-
-The next stages of my learning plan will focus on:
-
-- Microsoft 365 administration fundamentals.
-- Microsoft Entra ID and identity management.
-- Active Directory fundamentals.
-- ITSM, incident handling, and ticketing workflows.
-- Basic PowerShell and command-line troubleshooting.
-- Azure fundamentals and practical Azure projects.
-- Networking concepts relevant to cloud support.
-- German IT vocabulary and workplace communication.
-
-## 🇩🇪 German IT Vocabulary
-
-| German | English |
+| Tool / Command | Purpose |
 |---|---|
-| der IT-Support | IT support |
-| der Helpdesk | Helpdesk |
-| die Fehlerbehebung | Troubleshooting |
-| die Fehlermeldung | Error message |
-| das Benutzerkonto | User account |
-| die Berechtigung | Permission |
-| die Anmeldung | Sign-in |
-| die Authentifizierung | Authentication |
-| das Netzwerk | Network |
-| die Eskalation | Escalation |
-| das Ticket | Support ticket |
-| die Ursache | Cause |
+| `ipconfig` | View Windows IP configuration |
+| `ping` | Test network reachability |
+| `nslookup` | Query DNS information |
+| Windows Settings | Inspect relevant account and device settings |
+| Microsoft 365 web apps | Compare browser and desktop application behaviour |
+| GitHub | Maintain technical notes and document learning |
 
-## 📌 Portfolio Notes
+## Troubleshooting Method
 
-- This repository documents my learning journey and practical exercises.
-- Scenarios explicitly identified as simulated are training exercises, not verified production incidents.
-- Findings are recorded according to the evidence available in each lab.
-- Root causes are marked as unconfirmed when the available evidence is insufficient.
-- No real company credentials, passwords, or confidential information should be included.
+My approach to simulated incidents follows these steps:
 
-## 🚀 Current Milestone
+1. Identify and clarify the reported issue.
+2. Gather symptoms and relevant evidence.
+3. Perform safe, authorized first-line checks.
+4. Evaluate possible causes without assuming the root cause.
+5. Apply an approved fix when appropriate.
+6. Escalate when administrator privileges or specialist investigation are required.
+7. Document the outcome and confirm whether the issue is resolved.
 
-**Completed through Day 8:** Windows troubleshooting, basic networking, incident documentation, escalation, and Microsoft 365 / Outlook troubleshooting.
+## Security Principles
 
-**Next milestone:** Continue practical IT Support training and progressively build the technical skills required for entry-level IT Support roles.
+- Follow least-privilege principles.
+- Never request or share passwords.
+- Do not make unauthorized administrative changes.
+- Avoid granting unnecessary access.
+- Record evidence without exposing sensitive information.
+- Clearly distinguish suspected causes from confirmed root causes.
 
----
+## Project Status
 
-*Learning consistently. Troubleshooting systematically. Building toward an IT Support career *
+**Completed:** Days 1–9
+
+**Currently learning:** Windows, networking, Microsoft 365, user access and practical helpdesk troubleshooting.
+
+**Next:** Active Directory and Microsoft Entra ID fundamentals.
+
+This is a learning portfolio. The incidents documented here are simulated exercises and do not represent real company support tickets.
+
+## Long-Term Goal
+
+Develop the technical knowledge, troubleshooting discipline, documentation skills and German IT vocabulary required for an entry-level IT Support / Helpdesk role in Germany, followed by progression toward Cloud Support.
