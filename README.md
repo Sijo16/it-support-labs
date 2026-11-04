@@ -8,7 +8,7 @@ This repository contains structured learning notes, simulated troubleshooting sc
 
 | Day | Topic | Status |
 |---|---|---|
-| Day 01 | [IT Support Basics](day-01-it-support-basics.md)| Completed |
+| Day 01 | [IT Support Basics](labs/day-01-it-support-basics.md)| Completed |
 | Day 02 | Networking Basics | Completed |
 | Day 03 | Slow Laptop Troubleshooting | Completed |
 | Day 04 | Application Not Opening | Completed |
