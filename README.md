@@ -8,16 +8,16 @@ This repository contains structured learning notes, simulated troubleshooting sc
 
 | Day | Topic | Status |
 |---|---|---|
-| Day 01 | [IT Support Basics](labs/day-01-it-support-basics.md)| Completed |
-| Day 02 | Networking Basics | Completed |
-| Day 03 | Slow Laptop Troubleshooting | Completed |
-| Day 04 | Application Not Opening | Completed |
-| Day 05 | Helpdesk Ticket Documentation | Completed |
-| Day 06 | Network Troubleshooting | Completed |
-| Day 07 | Network Troubleshooting and Escalation | Completed |
-| Day 08 | Microsoft 365 and Outlook Troubleshooting | Completed |
-| Day 09 | User Access Troubleshooting | Completed |
-| Day 10 | Active Directory and Microsoft Entra ID Fundamentals | Completed |
+| Day 01 | [IT Support Basics](labs/day-01-it-support-basics.md) | Completed |
+| Day 02 | [Networking Basics](labs/day-02-network-basics.md) | Completed |
+| Day 03 | [Slow Laptop Troubleshooting](labs/day-03-slow-laptop.md) | Completed |
+| Day 04 | [Application Not Opening](labs/day-04-application-not-opening.md) | Completed |
+| Day 05 | [Helpdesk Ticket Documentation](labs/day-05-helpdesk-ticket.md) | Completed |
+| Day 06 | [Network Troubleshooting](labs/day-06-network-troubleshooting.md) | Completed |
+| Day 07 | [Network Escalation](labs/day-07-network-escalation.md) | Completed |
+| Day 08 | [Microsoft 365 and Outlook](labs/day-08-microsoft-365-outlook.md) | Completed |
+| Day 09 | [User Access Troubleshooting](labs/day-09-user-access-troubleshooting.md) | Completed |
+| Day 10 | [Active Directory and Entra ID](labs/day-10-active-directory-entra-id.md) | Completed |
 | Day 11 | ITSM and Ticketing Fundamentals | Planned |
 
 ## Skills Covered
