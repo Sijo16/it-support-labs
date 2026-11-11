@@ -34,6 +34,7 @@ The exercises are simulated helpdesk scenarios designed to demonstrate practical
 - [Day 09 – User Access Troubleshooting](labs/day-09-user-access-troubleshooting.md)
 - [Day 10 – Active Directory and Entra ID](labs/day-10-active-directory-entra-id.md)
 - [Day 11 – ITSM and Ticketing Fundamentals](labs/day-11-itsm-ticketing-fundamentals.md)
+- [Day 12 - Practical Ticket Creation and Documentation](labs/day-12-Practical-Ticket-Creation-and-Documentation)
 
 ## Skills Covered
 
