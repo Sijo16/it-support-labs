@@ -38,25 +38,39 @@ The exercises are simulated helpdesk scenarios designed to demonstrate practical
 
 ## Skills Covered
 
+## Skills Covered
+
+- IT Support and Helpdesk fundamentals
+- Incident, Service Request and Problem classification
+- Priority assessment using impact and urgency
+- SLA and ticket lifecycle fundamentals
 - Windows troubleshooting
-- Basic networking
-- DNS and connectivity checks
-- Microsoft 365 troubleshooting
-- Active Directory and Microsoft Entra ID fundamentals
-- User access and permission concepts
-- Incident classification and prioritisation
-- SLA fundamentals
-- Helpdesk ticket documentation
-- Escalation and communication
+- Application troubleshooting
+- Microsoft 365 and Teams troubleshooting
+- Outlook desktop and web troubleshooting
+- Active Directory and Entra ID fundamentals
+- User access and permission troubleshooting
+- Network connectivity troubleshooting
+- Printer and print queue troubleshooting
+- Print Spooler and printer driver fundamentals
+- L1 troubleshooting and escalation
+- Professional ticket documentation
+- Technical communication and German IT vocabulary
 
 ## Tools and Technologies
 
 - Windows 11
 - Microsoft 365
+- Microsoft Teams
+- Microsoft Outlook
+- Microsoft Active Directory fundamentals
 - Microsoft Entra ID fundamentals
-- Active Directory fundamentals
-- Networking commands and diagnostic tools
-- GitHub and Markdown
+- Networking fundamentals (TCP/IP, DNS, IP addressing)
+- Windows Device Manager
+- Windows Services and Print Spooler
+- Printer and driver troubleshooting
+- ITSM and helpdesk ticketing concepts
+- GitHub and Markdown documentation
 
 ## Learning Goal
 
